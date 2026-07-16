@@ -51,6 +51,6 @@ I've coordinated technical events and participated in workshops, and enjoy worki
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siri-maha-lakshmi-burugupilli-b964a3361)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirimahalakshmi.b09@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sirimahalakshmi.b09@gmail.com)
 
 *Open to Software Engineering internships and collaborative project opportunities.*
