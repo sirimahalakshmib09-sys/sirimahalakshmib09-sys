@@ -9,7 +9,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Student Registration Form](#) |Built and deployed a responsive Student Registration Form from scratch using HTML, CSS, and JavaScript, implementing robust client-side form validation (name, email, phone number) and interactive DOM manipulation to deliver a seamless, mobile-friendly user experience.| HTML · CSS · JavaScript |
+| [Student Registration Form](https://sirimahalakshmib09-sys.github.io/Student-Regsitration-Form/) |Built and deployed a responsive Student Registration Form from scratch using HTML, CSS, and JavaScript, implementing robust client-side form validation (name, email, phone number) and interactive DOM manipulation to deliver a seamless, mobile-friendly user experience.| HTML · CSS · JavaScript |
+| [Weather App](https://sirimahalakshmib09-sys.github.io/Weather_App/) | Developed a responsive weather application using React and Open-Meteo APIs, featuring city-based search, current location weather detection, dynamic weather backgrounds, temperature conversion, and a 5-day forecast dashboard. | React • JavaScript • CSS • Open-Meteo API |
 ---
 
 ## 🧠 Tech Stack
