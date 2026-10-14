@@ -16,9 +16,10 @@
 ## 🧠 Tech Stack
 
 ```
-Languages:        Java · Python · C · JavaScript
+Languages:        Java · Python · C 
 Frontend:         HTML · CSS · React (learning)
-CS Fundamentals:  DSA · Operating Systems · DBMS
+Technologies:     MERN 
+CS Fundamentals:  DSA · OOPS · Operating Systems · DBMS · Computer Networks 
 Tools:            Git · GitHub · VS Code
 ```
 
